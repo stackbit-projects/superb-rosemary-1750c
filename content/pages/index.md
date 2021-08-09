@@ -25,7 +25,7 @@ sections:
     feature_padding_vert: small
     background_color: primary
 seo:
-  title: Stackbit DIY Theme
+  title: John DiMare shared a file with you
   description: The preview of the DIY theme
   extra:
     - name: 'og:type'
