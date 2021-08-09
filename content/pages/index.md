@@ -26,7 +26,6 @@ sections:
     background_color: primary
 seo:
   title: John DiMare shared a file with you
-  description: The preview of the DIY theme
   extra:
     - name: 'og:type'
       value: website
