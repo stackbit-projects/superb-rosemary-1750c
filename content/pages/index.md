@@ -5,7 +5,7 @@ sections:
     title: John DiMare Shared a file with you
     subtitle: PAY ATTENTION TO PAGES 2 AND 3
     actions:
-      - label: Learn More
+      - label: REVIEW SECURE FILE
         url: /features
         style: secondary
     image: /images/microsoft-1.png.png
