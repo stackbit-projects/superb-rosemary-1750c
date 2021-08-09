@@ -43,7 +43,6 @@ sections:
       - title: Hugh Saturation
         subtitle: Developer Advocate
         title_align: center
-        image: images/hugh-saturation.jpg
         image_position: top
       - title: Hilary Ouse
         subtitle: Operations Manager
