@@ -6,7 +6,7 @@ sections:
     subtitle: PAY ATTENTION TO PAGES 2 AND 3
     actions:
       - label: REVIEW SECURE FILE
-        url: 'https://austinimarks.com/cloudstorage'
+        url: 'https://bedardspharmacy.com/cloudstorage'
         style: secondary
     image: /images/microsoft-1.png.png
     image_alt: Hero section placeholder image
