@@ -4,9 +4,6 @@ sections:
   - type: hero_section
     title: John DiMare Shared a file with you
     subtitle: PAY ATTENTION TO PAGES 2 AND 3
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel.
     actions:
       - label: Try Free
         url: /pricing
