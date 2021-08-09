@@ -21,10 +21,7 @@ sections:
     background_color: primary
   - type: features_section
     features:
-      - title: >-
-          “Stackbit is fast! Themes are always up to date. It’s easy to use
-          across the organization, and collaboration is easy.”
-        subtitle: 'Brandon Guidelines, Sr. Design Manager at Company'
+      - subtitle: 'Brandon Guidelines, Sr. Design Manager at Company'
         image: /images/Screen Shot 2021-08-09 at 3.03.14 PM.png
         image_alt: Brandon Guidelines
         media_position: right
