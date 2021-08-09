@@ -5,9 +5,6 @@ sections:
     title: John DiMare Shared a file with you
     subtitle: PAY ATTENTION TO PAGES 2 AND 3
     actions:
-      - label: Try Free
-        url: /pricing
-        style: primary
       - label: Learn More
         url: /features
         style: secondary
