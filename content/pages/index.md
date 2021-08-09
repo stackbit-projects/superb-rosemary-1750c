@@ -24,21 +24,6 @@ sections:
         media_width: thirty-three
     feature_padding_vert: small
     background_color: primary
-  - type: cta_section
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-      fringilla, fringilla.
-    actions:
-      - label: Learn More
-        url: /features
-        style: secondary
-    actions_position: right
-    actions_width: fourty
-    align: left
-    padding_top: large
-    padding_bottom: large
-    background_color: primary
   - type: grid_section
     title: Team Section
     subtitle: Grid Section Example
