@@ -22,22 +22,6 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: primary
-  - type: grid_section
-    title: Image Grid
-    subtitle: Grid Section Example
-    align: center
-    grid_items:
-      - image_alt: Contentful logo
-        image_align: center
-      - image_alt: Next.js logo
-        image_align: center
-      - image_alt: Gridsome logo
-        image_align: center
-      - image_alt: Git logo
-        image_align: center
-    grid_cols: four
-    grid_gap_horiz: medium
-    grid_gap_vert: medium
   - type: features_section
     title: Features Section
     subtitle: Features Section Example
