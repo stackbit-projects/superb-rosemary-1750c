@@ -21,8 +21,7 @@ sections:
     background_color: primary
   - type: features_section
     features:
-      - subtitle: 'Brandon Guidelines, Sr. Design Manager at Company'
-        image: /images/Screen Shot 2021-08-09 at 3.03.14 PM.png
+      - image: /images/Screen Shot 2021-08-09 at 3.03.14 PM.png
         image_alt: Brandon Guidelines
         media_position: right
         media_width: thirty-three
